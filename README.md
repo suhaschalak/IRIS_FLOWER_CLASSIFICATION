@@ -4,7 +4,6 @@
 Classify the iris flower species from the measurements of sepal length and width, along with petal length and width. The author tries out a suite of several machine learning models, compares their accuracies, and finally deploys the best one by using Gradio to make it readily accessible to a user. The dataset applied here is the classic Iris dataset, which has long been used in pattern recognition.
 
 ## Dataset Description
-![Iris Flower Species](![image](https://github.com/user-attachments/assets/e559f006-b1d7-482b-8d67-e77ad569bcfa))
 The Iris dataset features 150 instances of iris flowers, thus belonging to three different species: *Iris-setosa*, *Iris-versicolor*, and *Iris-virginica*. Each instance provides measurements for four features:
  
 - Sepal length in cm
