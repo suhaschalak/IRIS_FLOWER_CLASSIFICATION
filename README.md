@@ -1,6 +1,5 @@
 # TASK-1
 # Iris Flower Classification
-# Iris Flower Species Classification
 
 ## Project Overview
 This project classifies iris flower species based on measurements of sepal length, sepal width, petal length, and petal width. The project uses several machine learning models, compares their accuracy, and deploys the best-performing model using Gradio for a user-friendly interface. The dataset used is the Iris dataset, a well-known dataset for pattern recognition.
